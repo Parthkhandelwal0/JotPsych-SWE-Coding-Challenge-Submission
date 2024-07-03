@@ -204,5 +204,6 @@ This project is a full-stack application with a Flask backend API and a React fr
 2. Error handling in some components needs improvement
 3. The mock transcription service doesn't actually transcribe the audio
 4. The frontend doesn't handle all possible error states from the backend
+5. After login the logout seens to give an error sometimes but with register works perfectly
 
 This documentation provides a comprehensive overview of the current state of the project, including implemented features, code structure, API endpoints, frontend components, scaling considerations, and suggestions for future improvements. It serves as a solid foundation for further development and can be easily updated as the project evolves.
